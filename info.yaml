@@ -1,6 +1,6 @@
 # Tiny Tapeout project information
 project:
-  title:        "Analog Double Inverter"      # Project title
+  title:        "double_inverter"      # Project title
   author:       "Kimberly Wang"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "An analog double inverter using nfet and pfet"      # One line description of what your project does
